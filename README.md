@@ -1,4 +1,4 @@
-## This is a Facebook Messenger Chatbot
+## Facebook Messenger Chatbot
 
 This is a simple python based chatbot which aims at giving a chatting experience to the user by replying to their messages at the real time.
 
